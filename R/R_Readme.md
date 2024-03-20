@@ -1,22 +1,22 @@
 # Portfolio
-## Insights & Recommendation through Power BI
+## Insights through R
 
-#### The Global Superstore Dataset Visualized Using PowerBI
-#### Visualization 1
-##### This analysis delves into the Global Superstore's shipping dynamics, aiming to enhance efficiency and profitability. One helpful visual is the donut chart illustrating the proportion of shipping modes, spotlighting the significant contributors to costs. By using visuals like bar and line charts, the dashboard provides precise insights, enabling a deeper comprehension of how shipping influences profits and guiding strategic improvements for the Global Superstore.
+#### The Car_Sales Dataset Visualized Using R
 
-![Global Super Store Logistics-Visual Insights into shipping_1](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/GSS_Insights%20to%20Shipping_1.jpeg)
+#### Visualization 1 - Scatterplot: Analyzing Engine Size, Horsepower, and Fuel Efficiency
 
+![Visual_1](https://github.com/Akhila-PT/Portfolio/blob/main/R/Car_Sales_V1.png)
 
-![Global Super Store Logistics-Visual Insights into shipping_2](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/GSS_Insights%20to%20Shipping_2.jpeg)
+##### In the R analysis, it was found that engine size and horsepower have a positive correlation, indicating that larger engines tend to have higher horsepower. Conversely, there's a negative correlation between engine size and fuel efficiency, suggesting that larger engines generally have lower fuel efficiency. This implies a trade-off between horsepower and fuel efficiency. Outliers, like a single data point with a large engine size and low fuel efficiency, were also noted, indicating exceptions to the general trend and warranting further investigation.
 
-#### Insights
-##### Insights from data analysis reveal key points. Firstly, Q1 shows profit and shipping cost dips, demanding strategic planning. Secondly, despite high shipping costs, Tables exhibit low profit margins, urging cost-efficiency measures or pricing adjustments. Thirdly, the South incurs consistently high shipping costs, necessitating regional strategy understanding. Moreover, a profit-shipping correlation emphasizes prioritizing profitable shipping methods for optimal returns. Additionally, Technology emerges as the top shipping cost driver, prompting targeted optimizations. Despite costs, the South offers growth opportunities, implying potential revenue balancing strategies. Lastly, optimizing Standard Class shipping is crucial for overall cost reductions.
+#### Visualization 2 - Box Plot: Fuel Efficiency: Cars vs. Passenger Vehicles
 
+![Visual_2](https://github.com/Akhila-PT/Portfolio/blob/main/R/Car_Sales_V2.png)
 
-#### The Financial KPI 2014 database
-#### Visualization 2
+##### The comparison chart illustrates fuel efficiency differences between cars and passenger vehicles. Cars show a more uniform distribution without outliers, while passenger vehicles have some unusual data points. Both categories have similar box widths, but passenger vehicles appear to have a longer box, indicating greater variability in fuel efficiency. Cars exhibit tightly clustered fuel efficiency values within a narrower range, emphasizing greater consistency compared to passenger vehicles.
 
-![Financial KPI](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/Financial_Visualisation.jpeg)
+#### Visualization 3 - Histogram: Understanding Fuel Efficiency Distribution in Cars 
 
-##### In my visualization project, I used the Financial Sample dataset to create a Power BI report tracking the company's key financial KPIs for the 2014 fiscal year. The report showcases Units Sold, Gross Sales, COGS, and Profit, with interactive filters for country, segment, product, and date. Users can answer critical questions such as identifying the most profitable discount band, analyzing sales by segment and country, and determining the most profitable products. This report offers valuable insights for strategic decision-making.
+![Visual_3](https://github.com/Akhila-PT/Portfolio/blob/main/R/Car_Sales_V3.png)
+
+##### The majority of cars exhibit fuel efficiency values ranging from 20 to 30, indicating a central tendency towards this range. There are fewer cars with fuel efficiency values below 20 or above 30, suggesting a less common occurrence of extreme values. Additionally, a smaller group of cars demonstrates slightly higher efficiency values beyond 45. The shape of the histogram curve illustrates that the most prevalent fuel efficiencies cluster around 20 to 30, gradually decreasing as efficiency values increase beyond this range.
