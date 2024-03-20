@@ -1,7 +1,2 @@
-# Portfolio
-# The Global Superstore Dataset Visualized Using PowerBI
-
-![Global Super Store Logistics-Visual Insights into shipping](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/WhatsApp%20Image%202024-03-18%20at%2016.04.48.jpeg)
-
-
-![Financial Analysis-2014](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/Financial_Visualisation)
+## Portfolio
+### Welcome to Akhila's portfolio repository! Here, you'll find a collection of my projects, showcasing my skills, experiences, and accomplishments in data analytics and visualisation. Whether you're a potential employer, collaborator, or simply curious about my work, I invite you to browse through my portfolio and get in touch. Let's connect and explore opportunities together

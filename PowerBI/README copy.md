@@ -14,7 +14,7 @@
 ##### Insights from data analysis reveal key points. Firstly, Q1 shows profit and shipping cost dips, demanding strategic planning. Secondly, despite high shipping costs, Tables exhibit low profit margins, urging cost-efficiency measures or pricing adjustments. Thirdly, the South incurs consistently high shipping costs, necessitating regional strategy understanding. Moreover, a profit-shipping correlation emphasizes prioritizing profitable shipping methods for optimal returns. Additionally, Technology emerges as the top shipping cost driver, prompting targeted optimizations. Despite costs, the South offers growth opportunities, implying potential revenue balancing strategies. Lastly, optimizing Standard Class shipping is crucial for overall cost reductions.
 
 
-#### The Financial KPI 2014 datase
+#### The Financial KPI 2014 database
 #### Visualization 2
 
 ![Financial KPI](https://github.com/Akhila-PT/Portfolio/blob/main/PowerBI/Financial_Visualisation.jpeg)
